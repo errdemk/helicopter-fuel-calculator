@@ -16,6 +16,6 @@ Following link might be helpful to setup FLTK in Visual Studio 2017. It also con
   
 - GUI
 
-There are 4 maneuvers, which are “Suspended Flight Maneuver”, “Rise Maneuver”, “Descent Maneuver” and “Straight Flight Maneuver”, 1 output field which will show calculated fuel amount after pressing on a “Calculate” button.
+There are four maneuver types, which are “Suspended Flight Maneuver”, “Rise Maneuver”, “Descent Maneuver” and “Straight Flight Maneuver”, an output field which will show calculated fuel amount after pressing on a “Calculate” button.
 
 ![calculator](https://user-images.githubusercontent.com/44347252/61560260-75c0ab00-aa74-11e9-9df1-0e9477a61b2a.png)
