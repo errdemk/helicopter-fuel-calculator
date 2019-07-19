@@ -10,7 +10,9 @@ This project was created in __Visual Studio 2017__.
 
 __FLTK (Fast Light Toolkit)__ was used to create GUI.
 
-Following link might be helpful to setup FLTK in Visual Studio 2017. It also contains instructions to create sample FLTK application in VS2017. Same instructions can be applied to this project.
+Following link might be helpful to setup FLTK in Visual Studio 2017. It also contains instructions to create sample FLTK application in VS2017. Same instructions can be applied to this project too.
   
   > https://bumpyroadtocode.com/2017/08/05/how-to-install-and-use-fltk-1-3-4-in-visual-studio-2017-complete-guide/
   
+- GUI
+
