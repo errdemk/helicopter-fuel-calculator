@@ -12,7 +12,7 @@ UnstableManeuvers::UnstableManeuvers() {
 	speed = 0;
 }
 
-UnstableManeuvers::~UnstableManeuvers() {}
+UnstableManeuvers::~UnstableManeuvers() {} 
 
 void UnstableManeuvers::setUp(double upIn) {
 	up = upIn;

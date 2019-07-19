@@ -8,7 +8,7 @@
 #include "Descent.h"
 
 Descent::Descent() {}
-Descent::~Descent() {}
+Descent::~Descent() {} 
 
 void Descent::print() {
 	std::cout << "Entered Descent Maneuver..." << std::endl;

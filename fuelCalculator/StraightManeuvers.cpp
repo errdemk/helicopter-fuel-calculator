@@ -16,7 +16,7 @@ StraightManeuvers::~StraightManeuvers() {}
 void StraightManeuvers::setDistance(double distanceIn) {
 	distance = distanceIn;
 }
-
+ 
 void StraightManeuvers::setSpeed(double speedIn) {
 	speed = speedIn;
 }

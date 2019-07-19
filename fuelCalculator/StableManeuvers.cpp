@@ -17,7 +17,7 @@ void StableManeuvers::setTime(double ftimeIn) {
 }
 
 double StableManeuvers::getTime() {
-	return ftime;
+	return ftime; 
 }
 
 void StableManeuvers::setFcv(double fcvIn) {

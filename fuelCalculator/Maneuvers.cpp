@@ -10,4 +10,4 @@ Maneuvers::Maneuvers() {
 	fcv = 0;
 }
 
-Maneuvers::~Maneuvers() {}
+Maneuvers::~Maneuvers() {} 

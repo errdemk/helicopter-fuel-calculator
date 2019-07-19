@@ -10,7 +10,7 @@
 // abstract class for all Maneuvers
 class Maneuvers {
 	public:
-
+		 
 		Maneuvers();
 		~Maneuvers();
 		virtual void print() = 0;

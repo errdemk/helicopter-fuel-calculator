@@ -18,4 +18,4 @@ void Suspended::print() {
 
 double Suspended::getFuel() {
 	return (ftime * SEC) * fcv;
-}
+} 

@@ -15,7 +15,7 @@ class Straight : public StraightManeuvers {
 public:
 
 	Straight();
-	~Straight();
+	~Straight(); 
 
 	void print();
 	double getFuel();

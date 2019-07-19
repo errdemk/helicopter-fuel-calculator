@@ -8,7 +8,7 @@
 #define DESCENT_HEADER
 
 #include "UnstableManeuvers.h"
-
+ 
 // class for Descent Maneuver
 class Descent : public UnstableManeuvers {
 

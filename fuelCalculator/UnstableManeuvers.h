@@ -12,7 +12,7 @@
 // abstract class for Unstable Maneuvers which are Rise and Descent Maneuvers for that case
 class UnstableManeuvers : public Maneuvers {
 
-	public:
+	public: 
 
 		UnstableManeuvers();
 		~UnstableManeuvers();

@@ -15,7 +15,7 @@ class Rise : public UnstableManeuvers {
 public:
 
 	Rise();
-	~Rise();
+	~Rise(); 
 
 	void print();
 	double getDistance();

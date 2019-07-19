@@ -14,7 +14,7 @@ void Rise::print() {
 	std::cout << "Entered Rise Maneuver..." << std::endl;
 }
 
-double Rise::getDistance() {
+double Rise::getDistance() { 
 	return (up - down);
 }
 

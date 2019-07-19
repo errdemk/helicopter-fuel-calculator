@@ -11,7 +11,7 @@ Fl_Button *susBut = new Fl_Button(20, 20, 185, 30, "Suspended Flight Maneuver");
 Fl_Button *riseBut = new Fl_Button(20, 60, 185, 30, "Rise Maneuver");
 Fl_Button *desBut = new Fl_Button(20, 100, 185, 30, "Descent Maneuver");
 Fl_Button *strBut = new Fl_Button(20, 140, 185, 30, "Straight Flight Maneuver");
-Fl_Button *exitBut = new Fl_Button(475, 140, 80, 30, "Close");
+Fl_Button *exitBut = new Fl_Button(475, 140, 80, 30, "Close"); 
 Fl_Output *out = new Fl_Output(375, 80, 180, 20, "Required Fuel (kg): ");
 Fl_Button *calc = new Fl_Button(375, 140, 80, 30, "Calculate");
 

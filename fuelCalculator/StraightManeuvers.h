@@ -15,7 +15,7 @@ class StraightManeuvers : public Maneuvers {
 public:
 
 	StraightManeuvers();
-	~StraightManeuvers();
+	~StraightManeuvers(); 
 
 	void setDistance(double);
 	void setSpeed(double);

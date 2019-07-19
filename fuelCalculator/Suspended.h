@@ -14,7 +14,7 @@ class Suspended : public StableManeuvers {
 
 public:
 
-	Suspended();
+	Suspended(); 
 	~Suspended();
 
 	void print();

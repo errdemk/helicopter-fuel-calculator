@@ -16,4 +16,4 @@ void Straight::print() {
 
 double Straight::getFuel() {
 	return (distance / speed) * fcv;
-}
+} 

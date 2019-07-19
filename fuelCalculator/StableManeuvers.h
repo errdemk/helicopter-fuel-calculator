@@ -16,7 +16,7 @@ class StableManeuvers : public Maneuvers {
 
 		StableManeuvers();
 		~StableManeuvers();
-
+		 
 		void setTime(double);
 		double getTime();
 
